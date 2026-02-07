@@ -1,3 +1,5 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+
 # Git Profiles (Professional / Personal) — Clean & Legal Setup
 
 This repository provides a **vendor-neutral, privacy-respecting** way to manage
